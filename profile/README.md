@@ -18,9 +18,8 @@ Each repository includes its own README with usage, data sources, and citation d
 
 ## Who we are
 
-This work is led by Dr. Kate Burrows (Assistant Professor, Department of Public Health
-Sciences) and the [Burrows Research Group](https://www.kburrows.com), as well as
-[Dr. Prachi Sanghavi](https://health.uchicago.edu/faculty/prachi-sanghavi-phd)
+This work is led by [Dr. Kate Burrows](https://kburrows.com) (Assistant Professor, Department of Public Health
+Sciences) and [Dr. Prachi Sanghavi](https://health.uchicago.edu/faculty/prachi-sanghavi-phd)
 (Associate Professor, Department of Public Health Sciences).
 
 Our work is supported by the
@@ -30,5 +29,6 @@ both at the University of Chicago.
 
 ## Contact
 
+For questions on data use, citations, or requests, please contact:
 Kate Burrows · kburrows@uchicago.edu
 Department of Public Health Sciences, University of Chicago
