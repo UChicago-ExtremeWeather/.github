@@ -5,7 +5,7 @@ impacts of extreme weather and climate change at the University of Chicago.
 
 It includes exposure datasets developed for and with research groups across campus,
 along with collaborative analysis projects. Repositories are public to support
-reproducibility, reuse, and shared use of exposure data across groups.
+reproducibility and shared use of exposure data across UChicago and beyond.
 
 ## What's here
 
@@ -29,6 +29,6 @@ both at the University of Chicago.
 
 ## Contact
 
-For questions on data use, citations, or requests, please contact:
+For questions on data use, citations, or requests for updates, please contact:
 Kate Burrows · kburrows@uchicago.edu
 Department of Public Health Sciences, University of Chicago
