@@ -30,5 +30,6 @@ both at the University of Chicago.
 ## Contact
 
 For questions on data use, citations, or requests for updates, please contact:
-Kate Burrows · kburrows@uchicago.edu
+
+Dr. Kate Burrows, PhD, MPH · kburrows@uchicago.edu <br>
 Department of Public Health Sciences, University of Chicago
